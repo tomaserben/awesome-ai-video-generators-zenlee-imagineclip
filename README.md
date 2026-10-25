@@ -65,6 +65,7 @@ Create videos with AI-generated human presenters.
 | **D-ID** | Real-time streaming avatars, API access | [d-id.com](https://d-id.com) |
 | **HeyVid** | AI avatar videos with natural expressions and multilingual narration, optimized for social media formats | [heyvid.ai](https://heyvid.ai) |
 | **Colossyan** | Workplace learning focused, multi-character scenes | [colossyan.com](https://colossyan.com) |
+| **RemakeThat** | Winner-remake affiliate videos with AI avatar presenters, TikTok/Facebook briefs | [remakethat.com](https://remakethat.com) |
 
 ### Video Editing & Enhancement
 
